@@ -1,7 +1,7 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
 <h3>NAME : JOYCE BEULAH R</h3>
 <h3>REGISTER NO: 212222230058</h3>
-<h3>EX. NO : 3</h3>
+<h3>EX. NO : 5</h3>
 
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
